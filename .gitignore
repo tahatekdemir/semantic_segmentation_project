@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+data/
+*.pth
+*.pt
+*.h5
+*.tar.gz
+.DS_Store
